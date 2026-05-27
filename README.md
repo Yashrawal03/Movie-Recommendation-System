@@ -1,27 +1,36 @@
 <div align="center">
 
-# 🎬 MOVIE RECOMMENDATION SYSTEM
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:03045E,25:023E8A,50:0077B6,75:00B4D8,100:90E0EF&text=MOVIE%20RECOMMENDATION%20SYSTEM&fontSize=45&fontAlignY=40&animation=fadeIn&fontColor=CAF0F8"/>
 
-### AI-Powered Personalized Movie Recommendation Engine
-
-<img width="100%" src="https://github.com/user-attachments/assets/8143dbab-a502-4bce-ab9a-361732e3e88a"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&pause=1000&color=90E0EF&center=true&vCenter=true&width=1000&lines=AI-Powered+Movie+Recommendations;Intelligent+Recommendation+Engine;Machine+Learning+Based+Filtering;Smart+Content+Discovery;Personalized+Movie+Experience"/>
 
 <br><br>
 
-![Python](https://img.shields.io/badge/Python-00FF41?style=for-the-badge&logo=python&logoColor=black)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-00FF41?style=for-the-badge)
-![Recommendation System](https://img.shields.io/badge/Recommendation%20Engine-00FF41?style=for-the-badge)
-![Data Science](https://img.shields.io/badge/Data%20Science-00FF41?style=for-the-badge)
+<img src="https://img.shields.io/badge/Python-90E0EF?style=for-the-badge&logo=python&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/Machine%20Learning-48CAE4?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Recommendation%20Engine-00B4D8?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Data%20Science-0077B6?style=for-the-badge"/>
 
 </div>
 
 ---
 
-# ⚡ OVERVIEW
+<div align="center">
 
-The Movie Recommendation System is an AI-powered application that provides personalized movie recommendations based on intelligent filtering and machine learning techniques.
+<img width="100%" src="https://user-images.githubusercontent.com/74038190/212284126-77d4f2e0-3b4c-4d3f-b4f9-4b4b7c5d5f0f.gif"/>
 
-The system analyzes movie-related data and generates smart recommendations to improve user experience and content discovery.
+</div>
+
+---
+
+# ⚡ PROJECT OVERVIEW
+
+> The Movie Recommendation System is an AI-powered application that provides personalized movie recommendations using machine learning and intelligent filtering techniques.
+
+The system analyzes movie datasets, extracts meaningful patterns, and generates smart recommendations to improve user experience and content discovery.
 
 ---
 
@@ -58,6 +67,14 @@ Personalized Results
 
 ---
 
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:90E0EF,100:0077B6&height=2"/>
+
+</div>
+
+---
+
 # 📸 SYSTEM PREVIEW
 
 <div align="center">
@@ -69,6 +86,14 @@ Personalized Results
 ---
 
 # ⚙️ TECH STACK
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,vscode,git,github&theme=dark"/>
+
+</div>
+
+---
 
 ```yaml
 Frontend:
@@ -98,22 +123,38 @@ Tools:
 # 📊 CORE MODULES
 
 ## 🎥 Movie Data Processing
-Processes and cleans movie datasets for recommendation generation.
+
+```bash
+> Processes and cleans movie datasets
+> for intelligent recommendation generation.
+```
 
 ---
 
 ## 🧠 Recommendation Engine
-Generates personalized movie recommendations using ML algorithms.
+
+```bash
+> Generates personalized movie recommendations
+> using machine learning algorithms.
+```
 
 ---
 
 ## 📈 Similarity Matching
-Finds similar movies using intelligent filtering techniques.
+
+```bash
+> Finds similar movies
+> using intelligent filtering techniques.
+```
 
 ---
 
 ## 🌐 Interactive Interface
-Provides a clean and user-friendly recommendation experience.
+
+```bash
+> Provides a clean and user-friendly
+> recommendation experience.
+```
 
 ---
 
@@ -192,7 +233,15 @@ Development: CONTINUOUS
 
 ---
 
-# 🌐 CONNECT
+<div align="center">
+
+<img width="100%" src="https://user-images.githubusercontent.com/74038190/212284126-77d4f2e0-3b4c-4d3f-b4f9-4b4b7c5d5f0f.gif"/>
+
+</div>
+
+---
+
+# 🌐 CONNECT TO NETWORK
 
 <div align="center">
 
@@ -208,8 +257,28 @@ Development: CONTINUOUS
 
 ---
 
+# ⚡ MOVIE AI TERMINAL
+
+```bash
+> booting recommendation engine...
+
+[████████████████████] 100%
+
+✔ Movie Dataset Loaded
+✔ Similarity Engine Active
+✔ Recommendation Pipeline Running
+✔ ML Algorithms Initialized
+✔ User Interface Connected
+
+STATUS : READY FOR MOVIE DISCOVERY 🚀
+```
+
+---
+
 <div align="center">
 
-### ⚡ “Building Intelligent Recommendation Systems.”
+# 💫 “Building Intelligent Recommendation Systems.”
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&section=footer&color=0:03045E,25:023E8A,50:0077B6,75:00B4D8,100:90E0EF"/>
 
 </div>
